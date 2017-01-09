@@ -1,0 +1,4 @@
+#Mon Jan 09 11:47:48 CET 2017
+base.0=/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

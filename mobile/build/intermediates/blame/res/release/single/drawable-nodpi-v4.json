@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/res/merged/release/drawable-nodpi-v4/cast_album_art_placeholder.png",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/drawable-nodpi-v4/cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/res/merged/release/drawable-nodpi-v4/cast_album_art_placeholder_large.png",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/res/drawable-nodpi-v4/cast_album_art_placeholder_large.png"
+    }
+]

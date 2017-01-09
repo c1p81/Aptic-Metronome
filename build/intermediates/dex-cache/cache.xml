@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f989931824c1667e0393b7afa77e208f24332cf0">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1852b217fc93e882c87659930a3846503dfbfb03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_bdcc786fec6a5e4bed29bf1b8de908c9d68caacd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_d64e58cdbc8e5db6762bd589acc1040d046d2c1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/libs/TalkClient.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae93f8252481ee6029e3eb74d324c1f73ce308bc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/2/TalkClient_dda0dbb8e18834515c624bb664a80c4c112810ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_d29240d70b120f4582af8aa27f80ee07ea114248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_55af38b7c96fdd9634a102e6263903df199e9c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_0fcd8aa2b38ee9d58512618dd938d216e10cecdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_772617d9c3b0ddc82c574fe84489b43519ce5414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_db0372f88bd88470fdb6fce62c3c71987b82f9ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-config-10.0.1_397bfdcee58f8dc6d53b912154f2ffa7d8f2dd33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_21ba13a5672df50e1a830a63cbdfedbc645613da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-10.0.1_c171db82a99d177625a680a5148ef7deb3eebe5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-config-10.0.1_397bfdcee58f8dc6d53b912154f2ffa7d8f2dd33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_c171db82a99d177625a680a5148ef7deb3eebe5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-10.0.1_d9330a48a30eecc810c8faa23ff689fe5a91711b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6383a1ff3a7321206592959b5d6b3514bbf660d9">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d089fde15647cb127e2c4db4892355a0e7d853c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-10.0.1_a2ce99e1b4150fb1860f7d390aea5eba60b0d654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-awareness-10.0.1_d9703744094509da125d5ad63f44cd605b170787.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_d9330a48a30eecc810c8faa23ff689fe5a91711b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_d9703744094509da125d5ad63f44cd605b170787/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_b97b97b55d462a676cd3bbcd8d0e261081d74c1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/libs/TalkClient.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae93f8252481ee6029e3eb74d324c1f73ce308bc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/2/TalkClient_dda0dbb8e18834515c624bb664a80c4c112810ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_22cb76c84705135701330581daf753edc5dba667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_d3840a4e196ea188739c88982876984fb2a82bea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-iid-10.0.1_3cb8838deb2237a1c25d5acf3c58e5f468cd2225.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_bdcc786fec6a5e4bed29bf1b8de908c9d68caacd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_d64e58cdbc8e5db6762bd589acc1040d046d2c1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_0af1cacb7d6a449df0a4d742528315f3dbdac067/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_a2ce99e1b4150fb1860f7d390aea5eba60b0d654/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.0.1_1e8c56b219bc1a96f4c538cff3a175a0d44dedec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_3cb8838deb2237a1c25d5acf3c58e5f468cd2225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/libs/TalkClient.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae93f8252481ee6029e3eb74d324c1f73ce308bc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/2/TalkClient_75209cd613bbe0d850dab9a81e06df295700b1a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac293d0ffbcbf7333f3a88268b702a33e5c7d2e8">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/com.google.android.support-wearable-2.0.0-beta1_f0b2224adebe855dec0eb29d8fe760c345a469f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-24.0.0_b3042c14f4b58182723ed2ca6e211f5ce1c42948.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.shawnlin/number-picker/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f397c2f412911eaa6103dc9cbce6558680b23f37">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.shawnlin-number-picker-2.3.0_d92dd42dd07b53734b24516813c5b48cd3668871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_b3042c14f4b58182723ed2ca6e211f5ce1c42948/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.0_db0372f88bd88470fdb6fce62c3c71987b82f9ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_e744fa81d85142b51ae6bd14d552e67acff24558/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-10.0.1_0fcd8aa2b38ee9d58512618dd938d216e10cecdd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_317ce0988b5cd8db7df2fb9cbfa42a65fd73d363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_db0372f88bd88470fdb6fce62c3c71987b82f9ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.0_e744fa81d85142b51ae6bd14d552e67acff24558.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_b4f552d0c699fcdfb72ed395fd237268b190ebcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_21ba13a5672df50e1a830a63cbdfedbc645613da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-10.0.1_c81cbe036c998a38ea72355a0e07f36028d64e0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_c171db82a99d177625a680a5148ef7deb3eebe5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_0fcd8aa2b38ee9d58512618dd938d216e10cecdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_d9330a48a30eecc810c8faa23ff689fe5a91711b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_d3840a4e196ea188739c88982876984fb2a82bea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-core-utils-25.1.0_22cb76c84705135701330581daf753edc5dba667/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gass-10.0.1_d3840a4e196ea188739c88982876984fb2a82bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.0_22cb76c84705135701330581daf753edc5dba667.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_8a8d9fecf7c14e6e0268d3777eb096ad02310f10/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-messaging-10.0.1_d64e58cdbc8e5db6762bd589acc1040d046d2c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/internal_impl-24.0.0_0af1cacb7d6a449df0a4d742528315f3dbdac067.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac293d0ffbcbf7333f3a88268b702a33e5c7d2e8">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-beta1_f0b2224adebe855dec0eb29d8fe760c345a469f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.0.0_bf67fd7c27671dc191386b3a273c6b6ff5d81232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_317ce0988b5cd8db7df2fb9cbfa42a65fd73d363/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-storage-10.0.1_bff1f39d2fd5aaaf71dd332c44bd32fe14157e81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-framework-10.0.1_317ce0988b5cd8db7df2fb9cbfa42a65fd73d363.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_b3042c14f4b58182723ed2ca6e211f5ce1c42948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_bff1f39d2fd5aaaf71dd332c44bd32fe14157e81/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/internal_impl-24.0.0_bf67fd7c27671dc191386b3a273c6b6ff5d81232.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-common-10.0.1_f9cfd09000b2c4f81b38cbf4fd31b3a9bfc2b930/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-10.0.1_f9cfd09000b2c4f81b38cbf4fd31b3a9bfc2b930.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_e67c8e3b49fec3787b9ea6f75238ae533db842ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_c81cbe036c998a38ea72355a0e07f36028d64e0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-10.0.1_e67c8e3b49fec3787b9ea6f75238ae533db842ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_fd4459f858242f501ef984497bde2ee04749a1ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_7735870230806aff6bde443df7c11c5b475a167b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_0f44b9cda99a265882174ab8e41347f51b64c8cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_244bcad0277fb33e662ace87c5c1861bb3fe78a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_515b3df9d14c2bce92bc684952a5129ca561462b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-10.0.1_fd4459f858242f501ef984497bde2ee04749a1ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_ab6b91d7a1277fc8a61d982f325549a69dbddbd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_bff1f39d2fd5aaaf71dd332c44bd32fe14157e81/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-10.0.1_bdcc786fec6a5e4bed29bf1b8de908c9d68caacd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-core-ui-25.1.0_55af38b7c96fdd9634a102e6263903df199e9c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_d29240d70b120f4582af8aa27f80ee07ea114248/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-10.0.1_d29240d70b120f4582af8aa27f80ee07ea114248.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_7735870230806aff6bde443df7c11c5b475a167b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/libs/TalkClient.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae93f8252481ee6029e3eb74d324c1f73ce308bc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/TalkClient_dda0dbb8e18834515c624bb664a80c4c112810ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/support-annotations-25.1.0_772617d9c3b0ddc82c574fe84489b43519ce5414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-10.0.1_7735870230806aff6bde443df7c11c5b475a167b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.0_55af38b7c96fdd9634a102e6263903df199e9c96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_f9cfd09000b2c4f81b38cbf4fd31b3a9bfc2b930/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_e67c8e3b49fec3787b9ea6f75238ae533db842ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/support-annotations-25.1.0_772617d9c3b0ddc82c574fe84489b43519ce5414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_397bfdcee58f8dc6d53b912154f2ffa7d8f2dd33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_d9703744094509da125d5ad63f44cd605b170787/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_a2ce99e1b4150fb1860f7d390aea5eba60b0d654/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_1e8c56b219bc1a96f4c538cff3a175a0d44dedec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_fd4459f858242f501ef984497bde2ee04749a1ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-places-10.0.1_06beca2bb92aa9d5bb6f40fb4eb61cef124ff721.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_055ea13c1b34e7a9d389476f9d58444956d371f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_517076f4d5d7d8322d1dbb9732d1da99a57c76a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-10.0.1_517076f4d5d7d8322d1dbb9732d1da99a57c76a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_06beca2bb92aa9d5bb6f40fb4eb61cef124ff721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_f5f2bcb3e910ec720fcba138130577e8bcf21730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_fa34b0c5cdc86ecc0a37c247bec17f1d2c23e3d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-10.0.1_bd4a3b44c0223ed5e8181d749d114fa9e1af6d02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_290cb16a06fc11ebe9b7c32093b6843a682f12bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_b8e6a548a83ea704913ee327e590a991c66bbbb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-10.0.1_fa34b0c5cdc86ecc0a37c247bec17f1d2c23e3d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_bd4a3b44c0223ed5e8181d749d114fa9e1af6d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_74986f3e99b509397407b1ef5a81949d77764d9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_d3db9b68af0de9b3256ff2bc90f550d58609d1ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tagmanager-10.0.1_aa50a8f063154dbc7bf26232728d92da8456e671.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_8cd7abda109cdcd387224f17f9367f3a71299a31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_f5f2bcb3e910ec720fcba138130577e8bcf21730/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-instantapps-10.0.1_559d6a856c27911e213c1cc7020d97ddb910addf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-clearcut-10.0.1_f5f2bcb3e910ec720fcba138130577e8bcf21730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-10.0.1_528406546dfe22c162e80390731c958ec3d5c372.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_1083790d2bfb1a9a5ce2ac1d8403187fdc4857af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_528406546dfe22c162e80390731c958ec3d5c372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_aa50a8f063154dbc7bf26232728d92da8456e671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_559d6a856c27911e213c1cc7020d97ddb910addf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_5fa15b60c949f78d5e6811a6e7ba6ce8e4857f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/support-annotations-24.0.0_cdf2c47a4e7b2cd08d245aa854c7a5a0d56834d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-10.0.1_055ea13c1b34e7a9d389476f9d58444956d371f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-palette-v7-24.0.0_ab6b91d7a1277fc8a61d982f325549a69dbddbd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_06beca2bb92aa9d5bb6f40fb4eb61cef124ff721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-appcompat-v7-25.1.0_244bcad0277fb33e662ace87c5c1861bb3fe78a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_055ea13c1b34e7a9d389476f9d58444956d371f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.0_244bcad0277fb33e662ace87c5c1861bb3fe78a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_c7999b90810ead70264265213bc473aa0756b1a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_dc5e9662ca3954838dda6fc959e8d3908bf360bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.0_290cb16a06fc11ebe9b7c32093b6843a682f12bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_bd4a3b44c0223ed5e8181d749d114fa9e1af6d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_d3db9b68af0de9b3256ff2bc90f550d58609d1ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-media-compat-25.1.0_290cb16a06fc11ebe9b7c32093b6843a682f12bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_fa34b0c5cdc86ecc0a37c247bec17f1d2c23e3d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-10.0.1_d3db9b68af0de9b3256ff2bc90f550d58609d1ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_653fd1bd4618f68ea9baef6f60f77925878f775b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-10.0.1_8cd7abda109cdcd387224f17f9367f3a71299a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-10.0.1_0f44b9cda99a265882174ab8e41347f51b64c8cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_8cd7abda109cdcd387224f17f9367f3a71299a31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_0f44b9cda99a265882174ab8e41347f51b64c8cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_528406546dfe22c162e80390731c958ec3d5c372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_aa50a8f063154dbc7bf26232728d92da8456e671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-database-10.0.1_5fa15b60c949f78d5e6811a6e7ba6ce8e4857f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-10.0.1_5fa15b60c949f78d5e6811a6e7ba6ce8e4857f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-palette-v7-24.0.0_ab6b91d7a1277fc8a61d982f325549a69dbddbd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_559d6a856c27911e213c1cc7020d97ddb910addf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_cdf2c47a4e7b2cd08d245aa854c7a5a0d56834d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/libs/TalkClient.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae93f8252481ee6029e3eb74d324c1f73ce308bc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/TalkClient_75209cd613bbe0d850dab9a81e06df295700b1a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-fragment-25.1.0_515b3df9d14c2bce92bc684952a5129ca561462b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.shawnlin/number-picker/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f397c2f412911eaa6103dc9cbce6558680b23f37">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.shawnlin-number-picker-2.3.0_d92dd42dd07b53734b24516813c5b48cd3668871/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-10.0.1_fcb0ae2031db2de6b31908629dd9d45ff02753be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_c176ec0d0f08368c4fa58dbbfb6bbe5cc0ca00da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.0_515b3df9d14c2bce92bc684952a5129ca561462b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_bd8e66ce804416f1786e2c7a01699db1759bfd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-10.0.1_bd8e66ce804416f1786e2c7a01699db1759bfd02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-appindexing-10.0.1_dc5e9662ca3954838dda6fc959e8d3908bf360bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.shawnlin/number-picker/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f397c2f412911eaa6103dc9cbce6558680b23f37">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.shawnlin-number-picker-2.3.0_d92dd42dd07b53734b24516813c5b48cd3668871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-connection-10.0.1_c7999b90810ead70264265213bc473aa0756b1a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-impl-10.0.1_a388bc445d1bf93a93fad880c8c16a380f3ce01d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_c465461a765b2100f16b1eed7c9e14ff9d5274ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_dc5e9662ca3954838dda6fc959e8d3908bf360bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_c7999b90810ead70264265213bc473aa0756b1a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-v4-25.1.0_6ee4b90f91643ad070ff0c0ec7372eb6c5677e76/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_c176ec0d0f08368c4fa58dbbfb6bbe5cc0ca00da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_df5f9457e93e6d707a1f9a661178611af64c2528/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.0_6ee4b90f91643ad070ff0c0ec7372eb6c5677e76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_fcb0ae2031db2de6b31908629dd9d45ff02753be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_e98730d3363681e69887e77d09c591f9425b365b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-storage-common-10.0.1_b4f552d0c699fcdfb72ed395fd237268b190ebcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-10.0.1_b8de1bcc940e2dfc1ae761be586a38bfed0365c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_b4f552d0c699fcdfb72ed395fd237268b190ebcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-10.0.1_653fd1bd4618f68ea9baef6f60f77925878f775b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-compat-25.1.0_33134cae939e9bf407ca354afbf7d364f08ec4de/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.0_33134cae939e9bf407ca354afbf7d364f08ec4de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_e744fa81d85142b51ae6bd14d552e67acff24558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_653fd1bd4618f68ea9baef6f60f77925878f775b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-10.0.1_e862aba3d1f54935096c788715988639a4f59503.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_8a8d9fecf7c14e6e0268d3777eb096ad02310f10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_a388bc445d1bf93a93fad880c8c16a380f3ce01d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-crash-10.0.1_8a8d9fecf7c14e6e0268d3777eb096ad02310f10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_06e01822df0cf67d61010a5bab549341311aab3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_bf67fd7c27671dc191386b3a273c6b6ff5d81232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_e0b98cf2f179bb7880f3b621e8b67e2a42ce204f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-10.0.1_52097d2d524a1872ee5d18f2b85892536d0bb4bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_e862aba3d1f54935096c788715988639a4f59503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_e0b98cf2f179bb7880f3b621e8b67e2a42ce204f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_fcb0ae2031db2de6b31908629dd9d45ff02753be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c31d1e86bf2fbf36c46d8e550336a1fb234bae2">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_682310c6be94ec262016c6602d4cb65171421f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_517076f4d5d7d8322d1dbb9732d1da99a57c76a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_06e01822df0cf67d61010a5bab549341311aab3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_a388bc445d1bf93a93fad880c8c16a380f3ce01d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_bd8e66ce804416f1786e2c7a01699db1759bfd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_b8e6a548a83ea704913ee327e590a991c66bbbb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_b8de1bcc940e2dfc1ae761be586a38bfed0365c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-10.0.1_df5f9457e93e6d707a1f9a661178611af64c2528.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_c176ec0d0f08368c4fa58dbbfb6bbe5cc0ca00da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_df5f9457e93e6d707a1f9a661178611af64c2528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_e98730d3363681e69887e77d09c591f9425b365b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-10.0.1_c465461a765b2100f16b1eed7c9e14ff9d5274ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="936c119dcef89bb1f0c607f5d63027e7289051a0">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ba69d2515b6cc5e6235e61b0cbe8f0b62206019/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-10.0.1_b8e6a548a83ea704913ee327e590a991c66bbbb1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_c465461a765b2100f16b1eed7c9e14ff9d5274ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-base-10.0.1_e98730d3363681e69887e77d09c591f9425b365b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_e862aba3d1f54935096c788715988639a4f59503/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-10.0.1_74986f3e99b509397407b1ef5a81949d77764d9a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_6ee4b90f91643ad070ff0c0ec7372eb6c5677e76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_33134cae939e9bf407ca354afbf7d364f08ec4de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_74986f3e99b509397407b1ef5a81949d77764d9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-10.0.1_b97b97b55d462a676cd3bbcd8d0e261081d74c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-10.0.1_06e01822df0cf67d61010a5bab549341311aab3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_1083790d2bfb1a9a5ce2ac1d8403187fdc4857af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_52097d2d524a1872ee5d18f2b85892536d0bb4bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-10.0.1_e0b98cf2f179bb7880f3b621e8b67e2a42ce204f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_3cb8838deb2237a1c25d5acf3c58e5f468cd2225/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tagmanager-api-10.0.1_1083790d2bfb1a9a5ce2ac1d8403187fdc4857af.jar" />
+    </item>
+
+</items>

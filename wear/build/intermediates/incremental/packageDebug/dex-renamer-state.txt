@@ -1,0 +1,7 @@
+#Mon Jan 09 11:33:54 CET 2017
+base.0=/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_682310c6be94ec262016c6602d4cb65171421f67
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ba69d2515b6cc5e6235e61b0cbe8f0b62206019/classes.dex
+base.1=/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ba69d2515b6cc5e6235e61b0cbe8f0b62206019
+file.0=/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_682310c6be94ec262016c6602d4cb65171421f67/classes.dex

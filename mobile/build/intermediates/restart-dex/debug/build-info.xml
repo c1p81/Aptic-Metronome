@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="29410009960960"
+    token="2146658930718578870"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="28402280724609"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/outputs/apk/mobile-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="29276647707865"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="29410009960960"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

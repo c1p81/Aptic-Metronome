@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.luca_innocenti.apticmetro.MainActivity"
+    tools:deviceIds="wear">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        app:layout_box="all">
+
+        <NumberPicker
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:id="@+id/numberPicker"
+            android:layout_gravity="center_vertical|center_horizontal" />
+
+        <ImageButton
+            android:src="@drawable/play_icon"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:scaleType="fitXY"
+            android:id="@+id/imageButton"
+            android:background="@null"
+            android:layout_gravity="bottom|center_horizontal"/>
+
+        <TextView
+            android:text="bpm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:layout_marginRight="30dp"
+            android:id="@+id/textView"
+            android:layout_gravity="right|center" />
+
+    </FrameLayout>
+
+</android.support.wearable.view.BoxInsetLayout>

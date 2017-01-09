@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/res/merged/release/raw/gtm_analytics",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/intermediates/res/merged/release/raw/android_wear_micro_apk.apk",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/mobile/build/generated/res/microapk/release/raw/android_wear_micro_apk.apk"
+    }
+]

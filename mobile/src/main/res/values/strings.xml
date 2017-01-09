@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aptic Metronome</string>
+    <string name="number_picker_formatter">%02d</string>
+    <string name="roboto_light">sans-serif-light</string>
+
+
+</resources>

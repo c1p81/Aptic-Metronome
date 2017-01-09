@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="numberPickerStyle"/>
+    <declare-styleable name="NumberPicker"><attr format="dimension" name="np_width"/><attr format="dimension" name="np_height"/><attr format="color" name="np_dividerColor"/><attr format="dimension" name="np_dividerDistance"/><attr format="dimension" name="np_dividerThickness"/><attr format="string" name="np_formatter"/><attr format="integer" name="np_max"/><attr format="integer" name="np_min"/><attr format="enum" name="np_orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr><attr format="color" name="np_textColor"/><attr format="dimension" name="np_textSize"/><attr format="string" name="np_typeface"/><attr format="integer" name="np_wheelItemCount"/><attr format="boolean" name="np_wrapSelectorWheel"/></declare-styleable>
+    <string name="app_name">library</string>
+</resources>

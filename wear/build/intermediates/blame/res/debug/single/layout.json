@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-beta1/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-beta1/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_view.xml",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-beta1/res/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/res/layout/activity_main.xml"
+    }
+]

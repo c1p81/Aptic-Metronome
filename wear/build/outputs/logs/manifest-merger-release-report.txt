@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:8:22-63
+uses-library#com.google.android.wearable
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:10:5-89
+	android:required
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:10:62-86
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:10:19-61
+application
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:14:5-43:19
+MERGED from [com.google.android.support:wearable:2.0.0-beta1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-beta1/AndroidManifest.xml:6:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:19:9-59
+activity#com.luca_innocenti.apticmetro.MainActivity
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:26:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:32:27-74
+service#com.luca_innocenti.apticmetro.WearService
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:36:9-42:19
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:36:18-45
+intent-filter#com.google.android.gms.wearable.DATA_CHANGED+com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:37:13-41:29
+action#com.google.android.gms.wearable.DATA_CHANGED
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:38:17-87
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:38:25-84
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:39:17-91
+	android:name
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:39:25-88
+data
+ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:40:17-91
+	android:host
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:40:45-61
+	android:scheme
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:40:23-44
+	android:pathPrefix
+		ADDED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml:40:62-88
+uses-sdk
+INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0-beta1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-beta1/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucainnocenti/Downloads/ApticMetro/wear/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/lucainnocenti/Downloads/ApticMetro/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:20-65
